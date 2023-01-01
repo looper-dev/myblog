@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'บล็อคการเรียนรู้ส่วนบุคคล',
   author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
+  headerTitle: 'หลังตลาดเทรน',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
